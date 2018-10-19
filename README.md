@@ -1,1 +1,1 @@
-# FilterSelector
+Python script for Revit that filters the predefined category
